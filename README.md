@@ -2,11 +2,11 @@
 Steps:
 1. Set up an Angular app
 2. Set up Firebase 
-3. Connect something in the Angular app with the Firebase database
-4. Set up logins with Firebase
-5. Prototype (Front-End) for viewing a qeustion 
-6. Prototype (Back-End) creating a question
-7. Help Tarah integrate front-end content
+3. Prototype (Front-End) for viewing a question
+4. Integrate front-end with Tarah
+5. Prototype for subjects page
+6. Prototype for concepts page
+7. Set up app with Firebase
 8. LTI integration with one app
-9. LTI integration with two apps
-10. Refactor and make it look good and finish Alpha Testing
+9. Refactor front-end for create_question page
+10. Finish Alpha test to work out any last bugs
