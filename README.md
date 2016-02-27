@@ -8,5 +8,5 @@ Steps:
 6. Prototype for concepts page
 7. Set up app with Firebase
 8. LTI integration with one app
-9. Refactor front-end for create_question page
+9. Refactor front-end for create_question page.  Deploy to live server. 
 10. Finish Alpha test to work out any last bugs
