@@ -1,0 +1,19 @@
+Peer critique for Olga
+
+UX design
+-	Good use of space and whitespace 
+-	Calendar has nice functionality 
+o	Add day and week functionality to calendar
+-	Add coloring to notify users of what is going to be due soon
+-	Single page sign-on working
+Functionality
+-	Great API integration
+-	Great for a small subset 
+-	Suggestions
+o	Make week and month views
+o	Enhance the to do list (should be most important thing on dashboards)
+Scope
+-	Looks like its fulfilling the purpose of the project
+-	Add one or two features
+Database architecture
+-	No need for database with APIs 
